@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/fruit.png</file>
+        <file>pic/player.png</file>
+        <file>pic/position.png</file>
+        <file>pic/tree.png</file>
+        <file>pic/background.png</file>
+        <file>pic/pass.jpg</file>
+        <file>pic/ship.png</file>
+        <file>pic/treasure_closed.png</file>
+        <file>pic/treasure_open.png</file>
+        <file>pic/together.png</file>
+    </qresource>
+</RCC>
