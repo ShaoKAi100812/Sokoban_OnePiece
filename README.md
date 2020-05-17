@@ -1,4 +1,5 @@
 # 2020-pd2-sokoban
+[PD2 Project2](https://slides.com/jang-pingwu/deck#/)
 ## Video link
 [E14056384 Project 2 Demo](https://youtu.be/C20wHbd9PIo)
 ## How to play
